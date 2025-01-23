@@ -14,6 +14,9 @@
     <b>Security Management:</b> Utilizing SIEMs like <i>Splunk</i>, <i>LogRhythm</i>, and <i>Elastic SIEM</i> for security event collection, analysis, and correlation to enhance threat detection and regulatory compliance.
   </li>
 </ul>
+
+<h2>Certifications 📄</h2>
+
 <h2> Connect with me: 📲 </h2>
 
 <ul>
