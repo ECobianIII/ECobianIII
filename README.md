@@ -17,8 +17,10 @@
 <ul> 
     <li>
 <b> Local Network Design Schematic for a Small Office Environment:</b> This project involved creating a blueprint to illustrate the logical and physical layout of a local network for a small office. The schematic served as a foundational step for planning and communicating the network design.<li>
-  
-
+  <ul>
+    <il>
+      <b> OC Incident Analysis: DNS Service Disruption <b/> 
+        <a 
 <h2>Certifications 📄</h2>
 
 <h2> Connect with me: 📲 </h2>
