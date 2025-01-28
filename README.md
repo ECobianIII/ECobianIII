@@ -20,7 +20,7 @@
   <ul>
     <il>
       <b> SOC Incident Analysis: DNS Service Disruption <b/> 
-        <a 
+        
           
 <h2>Certifications 📄</h2>
 
