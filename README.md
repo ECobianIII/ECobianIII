@@ -1,6 +1,6 @@
 <h1> Hi, Im Eduardo 👋</h1>
 
-<h2> Cybersecurity Projects 💻</h2>
+<h2>Cybersecurity Projects 💻</h2>
 <ul>
   <li>
     <b>Security Audit</b>: 
@@ -8,19 +8,19 @@
       View Report
     </a>
   </li>
-</ul>
-<ul>
   <li>
     <b>Security Management:</b> Utilizing SIEMs like <i>Splunk</i>, <i>LogRhythm</i>, and <i>Elastic SIEM</i> for security event collection, analysis, and correlation to enhance threat detection and regulatory compliance.
   </li>
+  <li>
+    <b>Local Network Design Schematic for a Small Office Environment:</b>
+    This project involved creating a blueprint to illustrate the logical and physical layout of a local network for a small office. The schematic served as a foundational step for planning and communicating the network design.
+  </li>
+  <li>
+    <b>SOC Incident Analysis: DNS Service Disruption</b>: 
+    Diagnosed and reported DNS server issues, including unreachable UDP port 53, using network analysis tools like tcpdump. Provided actionable solutions to restore service and prevent future disruptions.
+  </li>
 </ul>
-<ul> 
-    <li>
-<b> Local Network Design Schematic for a Small Office Environment:</b> This project involved creating a blueprint to illustrate the logical and physical layout of a local network for a small office. The schematic served as a foundational step for planning and communicating the network design.<li>
-  <ul>
-    <il>
-      <b> SOC Incident Analysis: DNS Service Disruption <b/> 
-        
+
           
 <h2>Certifications 📄</h2>
 
