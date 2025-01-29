@@ -20,6 +20,12 @@
     Diagnosed and reported DNS server issues, including unreachable UDP port 53, using network analysis tools like tcpdump. Provided actionable solutions to restore service and prevent future disruptions.
   </li>
 </ul>
+<ul>
+  <li>
+    <b> Analizing a Network Attack: </b> This Network Attack Analysis Project focuses on detecting, investigating, and mitigating network-based security threats to strengthen defenses and improve incident response.
+  </li>
+</ul>
+
 
           
 <h2>Certifications 📄</h2>
