@@ -25,6 +25,11 @@
     <b> Analizing a Network Attack: </b> This Network Attack Analysis Project focuses on detecting, investigating, and mitigating network-based security threats to strengthen defenses and improve incident response.
   </li>
 </ul>
+<ul>
+<li>
+    <b>PacketWatch: Monitoring and Securing Network Data</b> analyzed network traffic to identify potential security incidents and recommends solutions to enhance system protection.
+  </li>
+</ul>
 
 
           
