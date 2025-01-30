@@ -27,7 +27,7 @@
 </ul>
 <ul>
 <li>
-    <b>Using TCPdump for Network Data Monitoring and Security</b> analyzed network traffic to identify potential security incidents and recommends solutions to enhance system protection.
+    <b>Using TCPdump for Network Data Monitoring and Security:</b> analyzed network traffic to identify potential security incidents and recommends solutions to enhance system protection.
   </li>
 </ul>
 
