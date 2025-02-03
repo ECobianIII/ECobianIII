@@ -3,9 +3,7 @@
 <h2>Cybersecurity Projects 💻</h2>
 <ul>
   <li>
-    <b>Security Audit</b>: 
-    <a href="https://www.icloud.com/pages/0f0MqyUpFsRemEMNR1XILDt7Q#Toy_Store_Proyect_paper_work_" target="_blank">
-      View Report
+    <b>Security Audit</b>: This report evaluates Botium Toys' security controls and compliance to ensure essential data protection measures are in place.
     </a>
   </li>
   <li>
@@ -31,9 +29,23 @@
   </li>
 </ul>
 
-
-          
 <h2>Certifications 📄</h2>
+
+<ul>
+  <li>
+    <b> Connect and Protect: Networks and Network Security </b>
+  </li>
+</ul>
+<ul>
+  <li>
+    <b> Foundations of Cybersecurity </b>
+  </li>
+</ul>
+<ul>
+  <li>
+    <b> Play It Safe: Manage Security Risks </b>
+  </li>
+</ul>
 
 <h2> Connect with me: 📲 </h2>
 
