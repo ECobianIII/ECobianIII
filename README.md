@@ -28,6 +28,12 @@
     <b>Using TCPdump for Network Data Monitoring and Security:</b> Analyzed network traffic to identify potential security incidents and recommends solutions to enhance system protection.
   </li>
 </ul>
+<a>
+<li>
+  <b> File Permissions in Linux: </b> Configuring and managing file permissions in Linux to enhance security and access control.
+</li></a>
+
+</a>
 
 <h2>Certifications 📄</h2>
 
