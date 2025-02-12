@@ -28,6 +28,9 @@
     <b>File Permissions in Linux:</b> 
     Configured and managed file permissions in Linux to enhance security and access control.
   </li>
+<li>
+  <b>Initial commit with SQL project:</b>SQL project for security analysis and monitoring.
+</li>
 </ul>
 
 <h2>Certifications 📄</h2>
