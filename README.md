@@ -50,6 +50,11 @@
     <b> Play It Safe: Manage Security Risks </b>
   </li>
 </ul>
+<ul>
+  <li>
+    <b> Tools of the Trade: Linux and SQL </b> 
+  </li>
+</ul>
 
 <h2> Connect with me: 📲 </h2>
 
