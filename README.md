@@ -31,6 +31,9 @@
 <li>
   <b>Initial commit with SQL project:</b> SQL project for security analysis and monitoring.
 </li>
+  <li>
+    <b>Data Leak Analysis & Mitigation: </b> A sales manager mistakenly left an internal-only folder accessible, leading to a sales rep sharing its link with a business partner, who then posted it on social media.
+  </li>
 </ul>
 
 <h2>Certifications 📄</h2>
