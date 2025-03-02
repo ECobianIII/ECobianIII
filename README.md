@@ -58,7 +58,11 @@
     <b> Tools of the Trade: Linux and SQL </b> 
   </li>
 </ul>
-
+<ul>
+<li>
+  <b> Assets, Threats, and Vulnerabilities </b>
+</li>
+</ul> 
 <h2> Connect with me: 📲 </h2>
 
 <ul>
