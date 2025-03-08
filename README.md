@@ -35,8 +35,7 @@
     <b>Data Leak Analysis & Mitigation: </b> A sales manager mistakenly left an internal-only folder accessible, leading to a sales rep sharing its link with a business partner, who then posted it on social media.
   </li>
   <li> 
-  <b> Signatures and Logs with Suricata:  performed an analysis on how Suricata works as an intrusion detection and prevention system. I explored various rules and examined the output logs to understand how Suricata detects and alerts on network events.
-  </b> 
+  <b> Signatures and Logs with Suricata:</b> Performed an analysis on how Suricata works as an intrusion detection and prevention system. I explored various rules and examined the output logs to understand how Suricata detects and alerts on network events. 
   </li>
 </ul>
 
