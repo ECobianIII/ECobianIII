@@ -3,42 +3,37 @@
 <h2>Cybersecurity Projects 💻</h2>
 <ul>
   <li>
-    <b>Security Audit:</b> This report evaluates Botium Toys' security controls and compliance to ensure essential data protection measures are in place.
+    <b>Security Audit:</b> Conducted a comprehensive evaluation of Botium Toys' security controls and compliance framework, ensuring the implementation of critical data protection measures. Assessed adherence to relevant industry standards and provided actionable recommendations to mitigate potential risks.
   </li>
   <li>
-    <b>Security Management:</b> Utilizing SIEMs like <i>Splunk</i>, <i>LogRhythm</i>, and <i>Elastic SIEM</i> for security event collection, analysis, and correlation to enhance threat detection and regulatory compliance.
+    <b>Security Management:</b> Utilized advanced SIEM platforms including <i>Splunk</i>, <i>LogRhythm</i>, and <i>Elastic SIEM</i> for the collection, analysis, and correlation of security events. Enhanced threat detection capabilities and ensured regulatory compliance by integrating best practices in security monitoring and incident response.
   </li>
   <li>
-    <b>Local Network Design Schematic for a Small Office Environment:</b>
-    This project involved creating a blueprint to illustrate the logical and physical layout of a local network for a small office. The schematic served as a foundational step for planning and communicating the network design.
+    <b>Local Network Design Schematic for a Small Office Environment:</b> Developed a comprehensive network blueprint illustrating both logical and physical layouts for a small office environment. This project provided foundational support for network infrastructure planning and clear communication of design choices to stakeholders.
   </li>
   <li>
-    <b>SOC Incident Analysis: DNS Service Disruption:</b> 
-    Diagnosed and reported DNS server issues, including unreachable UDP port 53, using network analysis tools like tcpdump. Provided actionable solutions to restore service and prevent future disruptions.
+    <b>SOC Incident Analysis – DNS Service Disruption:</b> Diagnosed and reported DNS server issues, including unreachable UDP port 53, using network analysis tools like tcpdump. Delivered actionable recommendations to restore functionality and prevent future disruptions, improving overall service uptime.
   </li>
   <li>
-    <b>Analyzing a Network Attack:</b> 
-    Detected, investigated, and mitigated network-based security threats to strengthen defenses and improve incident response.
+    <b>Network Attack Analysis:</b> Identified, investigated, and mitigated network-based security threats. Enhanced network defense mechanisms and bolstered incident response strategies through a systematic approach to threat detection and mitigation.
   </li>
   <li>
-    <b>Using TCPdump for Network Data Monitoring and Security:</b> 
-    Analyzed network traffic to identify potential security incidents and recommended solutions to enhance system protection.
+    <b>Network Traffic Analysis with TCPdump:</b> Monitored and analyzed network traffic using tcpdump to identify potential security incidents. Provided insights and actionable recommendations to strengthen system protection and proactively address emerging threats.
   </li>
   <li>
-    <b>File Permissions in Linux:</b> 
-    Configured and managed file permissions in Linux to enhance security and access control.
-  </li>
-<li>
-  <b>Initial commit with SQL project:</b> SQL project for security analysis and monitoring.
-</li>
-  <li>
-    <b>Data Leak Analysis & Mitigation: </b> A sales manager mistakenly left an internal-only folder accessible, leading to a sales rep sharing its link with a business partner, who then posted it on social media.
-  </li>
-  <li> 
-  <b> Signatures and Logs with Suricata:</b> Performed an analysis on how Suricata works as an intrusion detection and prevention system. I explored various rules and examined the output logs to understand how Suricata detects and alerts on network events. 
+    <b>Linux File Permissions & Access Control:</b> Configured and managed file permissions in Linux, applying best practices to enforce strict access control and enhance overall system security. Strengthened data protection by ensuring proper authorization protocols were in place.
   </li>
   <li>
-    <b> DNS in Detail-THM: </b> Explored how DNS works, its role in networking, and how to extract useful information from it.
+    <b>SQL for Security Analysis & Monitoring:</b> Developed and optimized SQL queries for security analysis and monitoring, leveraging data insights to identify anomalies, unauthorized access attempts, and potential threats. Supported proactive threat detection strategies through database query refinement.
+  </li>
+  <li>
+    <b>Data Leak Analysis & Mitigation:</b> Investigated an internal data exposure incident where an internal-only folder was mistakenly left accessible, leading to unauthorized sharing. Traced the breach, analyzed its impact, and implemented mitigation strategies to prevent future occurrences.
+  </li>
+  <li>
+    <b>Intrusion Detection & Log Analysis with Suricata:</b> Performed an in-depth analysis of Suricata as an Intrusion Detection and Prevention System (IDPS). Explored various detection rules and examined log outputs to understand how Suricata identifies and responds to network events.
+  </li>
+  <li>
+    <b>DNS in Detail – TryHackMe:</b> Explored the core functionalities of DNS, its crucial role in networking, and methodologies for extracting valuable information to support security investigations. Gained hands-on experience in DNS analysis and troubleshooting.
   </li>
 </ul>
 
