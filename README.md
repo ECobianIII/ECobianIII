@@ -37,6 +37,9 @@
   <li> 
   <b> Signatures and Logs with Suricata:</b> Performed an analysis on how Suricata works as an intrusion detection and prevention system. I explored various rules and examined the output logs to understand how Suricata detects and alerts on network events. 
   </li>
+  <li>
+    <b> DNS in Detail-THM: </b> Explored how DNS works, its role in networking, and how to extract useful information from it.
+  </li>
 </ul>
 
 <h2>Certifications 📄</h2>
