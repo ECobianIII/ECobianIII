@@ -35,6 +35,9 @@
   <li>
     <b>DNS in Detail – TryHackMe:</b> Explored the core functionalities of DNS, its crucial role in networking, and methodologies for extracting valuable information to support security investigations. Gained hands-on experience in DNS analysis and troubleshooting.
   </li>
+  <li>
+    <b> Automating IP Allow List Updates: </b> access to restricted content is managed using an allow list of IP addresses stored in "allow_list.txt". To streamline the process of removing unauthorized IPs, I developed an algorithm that automatically updates this file based on a remove list.
+  </li>
 </ul>
 
 <h2>Certifications 📄</h2>
