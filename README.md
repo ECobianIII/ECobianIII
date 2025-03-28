@@ -1,6 +1,6 @@
 <h1> Hi, Im Eduardo 👋</h1>
 
-<<h2>Cybersecurity Projects 💻</h2>
+<h2>Cybersecurity Projects 💻</h2>
 
 <ul>
   <li>
