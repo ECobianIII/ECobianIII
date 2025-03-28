@@ -5,21 +5,32 @@
   <li>
     <b>Security Audit:</b> Conducted a comprehensive evaluation of Botium Toys' security controls and compliance framework, ensuring the implementation of critical data protection measures. Assessed adherence to relevant industry standards and provided actionable recommendations to mitigate potential risks.
   </li>
+</ul>
+<ul>
   <li>
     <b>Security Management:</b> Utilized advanced SIEM platforms including <i>Splunk</i>, <i>LogRhythm</i>, and <i>Elastic SIEM</i> for the collection, analysis, and correlation of security events. Enhanced threat detection capabilities and ensured regulatory compliance by integrating best practices in security monitoring and incident response.
   </li>
+</ul>
+<ul>
   <li>
     <b>Local Network Design Schematic for a Small Office Environment:</b> Developed a comprehensive network blueprint illustrating both logical and physical layouts for a small office environment. This project provided foundational support for network infrastructure planning and clear communication of design choices to stakeholders.
   </li>
+</ul>
+<ul>
   <li>
     <b>SOC Incident Analysis – DNS Service Disruption:</b> Diagnosed and reported DNS server issues, including unreachable UDP port 53, using network analysis tools like tcpdump. Delivered actionable recommendations to restore functionality and prevent future disruptions, improving overall service uptime.
   </li>
+</ul>
+<ul>
   <li>
     <b>Network Attack Analysis:</b> Identified, investigated, and mitigated network-based security threats. Enhanced network defense mechanisms and bolstered incident response strategies through a systematic approach to threat detection and mitigation.
   </li>
+</ul>
+<ul>
   <li>
     <b>Network Traffic Analysis with TCPdump:</b> Monitored and analyzed network traffic using tcpdump to identify potential security incidents. Provided insights and actionable recommendations to strengthen system protection and proactively address emerging threats.
   </li>
+</ul>
   <li>
     <b>Linux File Permissions & Access Control:</b> Configured and managed file permissions in Linux, applying best practices to enforce strict access control and enhance overall system security. Strengthened data protection by ensuring proper authorization protocols were in place.
   </li>
