@@ -66,6 +66,8 @@
 <li>
   <b> Assets, Threats, and Vulnerabilities </b>
 </li>
+</ul>
+<ul>
   <li>
     <b> Sound the Alarm: Detection and Response</b>
   </li>
