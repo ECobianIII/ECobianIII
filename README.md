@@ -66,6 +66,9 @@
 <li>
   <b> Assets, Threats, and Vulnerabilities </b>
 </li>
+  <li>
+    <b> Sound the Alarm: Detection and Response</b>
+  </li>
 </ul> 
 <h2> Connect with me: 📲 </h2>
 
